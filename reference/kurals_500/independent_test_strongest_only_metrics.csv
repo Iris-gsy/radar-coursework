@@ -1,0 +1,2 @@
+﻿Model,Frames,TrueTargets,TP,FP,FN,Pd,Precision,F1,FalseAlarmsPerFrame,CandidateRecall,DecisionThreshold
+contrast_shape_speed_range,500,500,266,234,234,0.532,0.532,0.532,0.468,0.992,0.00038544075677960125

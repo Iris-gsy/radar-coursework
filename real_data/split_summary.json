@@ -1,0 +1,24 @@
+{
+  "train_car_frames": 500,
+  "val_car_frames": 200,
+  "test_car_frames": 500,
+  "train_frames": 500,
+  "val_frames": 200,
+  "test_frames": 500,
+  "train_sequence": "20220413_141133_Ku3km_LandCar",
+  "val_sequence": "20220413_141133_Ku3km_LandCar",
+  "test_sequence": "20220413_144137_Ku3km_LandCar",
+  "train_id_min_max": [
+    100,
+    3200
+  ],
+  "val_id_min_max": [
+    3800,
+    4700
+  ],
+  "test_id_min_max": [
+    0,
+    1319
+  ],
+  "note": "Train and val are time-separated blocks of SAME sequence. Test uses another capture sequence. 12 calibration frames excluded."
+}

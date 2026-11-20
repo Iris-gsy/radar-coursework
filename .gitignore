@@ -1,0 +1,23 @@
+# MATLAB, Python and DevEco generated files
+/outputs/
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.hvigor/
+.ohpm/
+oh_modules/
+build/
+local.properties
+*.hap
+*.app
+*.p12
+*.jks
+*.pfx
+~$*
+
+# Downloaded KuRALS source data and local derived frames
+/KuPulseV3/
+/KuRALS_sequences/
+/real_data/KuRALS_real_prepared/
+/real_data/downloads/

@@ -1,0 +1,4 @@
+Weather,NumPairedTargets,MeanTwoWayLoss_dB,MedianTwoWayLoss_dB,MaxTwoWayLoss_dB,LostDetectionsVsClear,GainedDetectionsVsClear,DeltaFPPerFrameVsClear,FramesWithChangedFPCount
+clear,165,0,0,0,0,0,0,0
+rain,165,6.6265119063711,5.25400522214315,23.4625504854499,22,0,0.17,28
+fog,165,2.42144350287202,2.0180027006214,9.74205059940271,12,0,0.02,2
